@@ -62,3 +62,9 @@ While both models showed reasonable accuracy in predicting whether an email is s
 - `spam_detector.ipynb`: The Jupyter notebook containing the entire project.
 - `rf_predictions.csv`: CSV file of the predictions made by the Random Forest model.
 - `README.md`: This file.
+
+## Acknowledgements
+
+I would like to thank the Xpert Learning Assistant for providing guidance and support during the completion of this project. Their assistance helped in clarifying certain aspects of the challenge and ensuring the models were developed effectively.
+
+If any code has been referenced or sourced from external resources, those references will be noted directly in the notebook.
